@@ -593,4 +593,3 @@ MIT License — 基于 Intel Labs 原始代码适配修改。
 • 原始代码作者：German Ros (german.ros@gmail.com)
 • CARLA 文档 — API 参考与教程
 
-本内容由 Coze AI 生成，请遵循相关法律法规及《人工智能生成合成内容标识办法》使用与传播。
