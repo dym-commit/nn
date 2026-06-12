@@ -75,6 +75,9 @@ title: 主页
 
 [__基于自监督学习与PPO强化学习的自动驾驶仿真项目__](./autonomous_driving/README.md) - 基于CARLA的SSL+RL自动驾驶仿真系统
 
+[__CARLA 0.9.15 自动驾驶与车道保持控制系统__](./carla_driving/README.md) 
+
+
 
 ## 规划 <span id="planning"></span>
 
